@@ -229,9 +229,9 @@ img {
 
 /* Amenities Section */
 .amenities-section {
-  padding: 4rem var(--spacing-default)
+  padding: 4rem var(--spacing-default);
   background-color: var(--color-white-light);
-  text align: center;
+  text-align: center;
 }
 
 .amenities-section ul {
